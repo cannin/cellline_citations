@@ -1,0 +1,1028 @@
+identifier	search	summed_citations
+HL-60	leukemia	109000
+MDA-MB-231	breast	102000
+HeLa	cervical	86324
+PC-3	prostate	83200
+DU145	prostate	42402
+NCI-H460	lung	32822
+Jurkat	leukemia	32312
+CCRF-CEM	leukemia	27664
+MDA-MB-468	breast	21480
+T24	bladder	21260
+SaOS-2	osteosarcoma	21106
+NCI-H1299	lung	20370
+THP-1	leukemia	19476
+Raji	lymphoma	19308
+HCT 116	colon	19100
+SW620	colon	18390
+A2780	ovarian	17568
+Onda 11	glioblastoma	17276
+A-549	lung	17148
+Onda 10	glioblastoma	16350
+KG-1	leukemia	16300
+ML-2	leukemia	16300
+LoVo	colon	15700
+OVCAR-3	ovarian	15480
+MOLT-4	leukemia	15203
+U2OS	osteosarcoma	14908
+U-87MG ATCC	glioblastoma	14618
+Daudi	lymphoma	14202
+MKN45	gastric	13420
+K-562	leukemia	13001
+SiHa	cervical	11700
+BxPC-3	pancreatic	10800
+NCI-H23	lung	10770
+MIA PaCa-2	pancreatic	10530
+NB4	leukemia	10300
+Huh-7	hepatocellular	9982
+SK-N-SH	neuroblastoma	9740
+NCI-H69	lung	9554
+MG-63	osteosarcoma	9470
+T98G	glioblastoma	9428
+SK-MEL-28	melanoma	8811
+T84	colon	8750
+M14	melanoma	8731
+HT-1080	fibrosarcoma	8688
+MDA-MB-453	breast	8401
+COLO 205	colon	8366
+HCT 15	colon	8100
+AsPC-1	pancreatic	7990
+22Rv1	prostate	7742
+SK-OV-3	ovarian	7565
+Jiyoye	lymphoma	7407
+NCI-H1975	lung	7040
+NCI-H522	lung	6971
+MDA-MB-361	breast	6881
+ACHN	renal	6840
+P12-Ichikawa	leukemia	6762
+NCI-H292	lung	6746
+NCI-H358	lung	6670
+MKN28	gastric	6600
+NCI-N87	gastric	6145
+P32/ISH	lymphoma	5958
+CFPAC-1	cystic fibrosis	5799
+CFPAC-1	pancreatic	5799
+OCI-AML2	leukemia	5790
+Caki-1	renal	5750
+SK-HEP-1	hepatocellular	5620
+Capan-1	pancreatic	5430
+C32 [Human melanoma]	melanoma	5408
+CAS-1	glioblastoma	5380
+NCI-H441	lung	5110
+IGROV-1	ovarian	5024
+786-O	renal	5002
+CAMA-1	breast	4940
+Namalwa	lymphoma	4937
+Sc-1	lymphoma	4700
+SK-MES-1	lung	4480
+NCI-H446	lung	4467
+NCI-H520	lung	4331
+MV4-11	leukemia	4324
+Calu-3	lung	4320
+MDA-MB-157	breast	4130
+ES-2	ovarian	4120
+C-33 A	cervical	4105
+SK-MEL-2	melanoma	4021
+J82	bladder	3974
+A2058	melanoma	3884
+NCI-H1650	lung	3840
+VCaP	prostate	3767
+NALM-6	leukemia	3737
+SW1990	pancreatic	3602
+MeWo	melanoma	3600
+CRO-AP2	lymphoma	3547
+HCC827	lung	3480
+NCI-H82	lung	3470
+Capan-2	pancreatic	3430
+LS180	colon	3394
+SK-MEL-5	melanoma	3249
+PA-1	ovarian	3210
+MS-1 [Human lung carcinoma]	lung	3190
+Calu-6	lung	3170
+HCC1937	breast	3160
+NCI-H322M	lung	3160
+SW1116	colon	3085
+SW48	colon	3054
+OVCAR-8	ovarian	3025
+Daoy	medulloblastoma	2971
+SET-2	leukemia	2930
+OVCAR-5	ovarian	2917
+CESS	myeloid leukemia	2910
+JIMT-1	breast	2850
+Kasumi-1	leukemia	2820
+SU-DHL-4	lymphoma	2760
+UM-UC-3	bladder	2751
+JeKo-1	lymphoma	2670
+UACC-62	melanoma	2660
+H4	astrocytoma	2620
+KM12	colon	2510
+BPH-1	prostate	2500
+MSTO-211H	mesothelioma	2413
+BC-1	lymphoma	2360
+SK-N-AS	neuroblastoma	2280
+NCI-H209	lung	2245
+U-251MG	astrocytoma	2229
+OVCAR-4	ovarian	2201
+LOX-IMVI	melanoma	2200
+Hep 3B2.1-7	hepatocellular	2195
+NCI-H187	lung	2190
+HCC2998	colon	2139
+Caov-3	ovarian	2130
+NCI-H596	lung	2121
+A-375	melanoma	2109
+HPAF-II	pancreatic	2054
+EM-2	leukemia	2010
+HOP-62	lung	2010
+SN12C	renal	2010
+Karpas-299	lymphoma	2003
+ME-1 [Human leukemia]	leukemia	1982
+TK-10	renal	1980
+ME-180	cervical	1970
+LNCaP clone FGC	prostate	1946
+NCI-H661	lung	1943
+NCI-H146	lung	1937
+UO-31	renal	1932
+HOP-92	lung	1930
+Ku812	leukemia	1902
+EKVX	lung	1900
+LC-1/sq	lung	1891
+HT-3	cervical	1870
+LN-229	glioblastoma	1870
+RS4;11	leukemia	1851
+HCC1954	breast	1830
+NCI-H345	lung	1784
+UACC-257	melanoma	1780
+Kuramochi	ovarian	1770
+D283 Med	medulloblastoma	1758
+HGC-27	gastric	1720
+NCI-H1703	lung	1720
+LIM1215	colon	1714
+LIM1215	lynch syndrome	1714
+RXF 393L	renal	1692
+Mono-Mac-6	leukemia	1685
+U-118MG	astrocytoma	1684
+MKN7	gastric	1678
+HSC-2	oral	1650
+HCC38	breast	1644
+TCCSUP	bladder	1617
+NCI-H1355	lung	1611
+NCI-H727	lung	1601
+SCC-4	tongue	1600
+RT-4	bladder	1572
+HEC-1	endometrial	1570
+TE-1	esophageal	1550
+AU565	breast	1548
+SW1573	lung	1548
+CA46	lymphoma	1537
+DBTRG-05MG	glioblastoma	1535
+HPAC	pancreatic	1520
+WM35	melanoma	1494
+NB1	neuroblastoma	1480
+OS-RC-2	renal	1442
+NCI-H1793	lung	1439
+NCI-H3255	lung	1437
+NCI-H526	lung	1435
+L-428	lymphoma	1433
+BC-3	lymphoma	1430
+NCI-H2228	lung	1427
+A-498	renal	1420
+MOLM-13	leukemia	1420
+SJSA-1	osteosarcoma	1419
+OVCA433	ovarian	1413
+IGR-37	melanoma	1404
+NCI-H28	mesothelioma	1383
+OCI-AML3	leukemia	1380
+WM115	melanoma	1380
+697	leukemia	1367
+SW13	adrenal	1364
+PC-14	lung	1360
+SNU-1	gastric	1356
+ARH-77	myeloma	1350
+NCI-H1770	lung	1348
+NCI-H2009	lung	1344
+NCI-H378	lung	1343
+SK-MEL-1	melanoma	1328
+SW948	colon	1308
+MEG-01	leukemia	1300
+A-172	glioblastoma	1288
+SU-DHL-6	lymphoma	1275
+EoL-1	leukemia	1265
+NCI-H838	lung	1264
+Karpas-45	leukemia	1249
+SUIT-2	pancreatic	1240
+HCC70	breast	1221
+NCI-H2122	lung	1207
+SW403	colon	1187
+SF295	glioblastoma	1175
+NCI-H1105	lung	1168
+A-388		1160
+A-427	lung	1150
+DU4475	breast	1142
+NCI-H226	mesothelioma	1136
+HCC1806	breast	1130
+NCI-H1993	lung	1127
+Granta-519	lymphoma	1100
+SCaBER	bladder	1100
+G-361	melanoma	1075
+DoHH2	lymphoma	1070
+SK-ES-1	ewing sarcoma	1068
+FaDu	hypopharyngeal	1060
+NT2-D1	embryonal	1060
+EBC-1	lung	1052
+HSC-3	tongue	1050
+TALL-1 [Human adult T-ALL]	leukemia	1036
+NCI-H2052	mesothelioma	1021
+SNU-16	gastric	1021
+SU-DHL-1	lymphoma	1015
+WM793	melanoma	1012
+NCI-H1437	lung	1007
+BE-13	leukemia	990
+NCI-H128	lung	987
+TMK-1	gastric	984
+8505C	thyroid	980
+Mel JuSo	melanoma	973
+SCC-9	tongue	959
+NCI-H3122	lung	955
+OE33	barrett	952
+C-4-I	cervical	944
+SK-LU-1	lung	944
+SCC-25	tongue	942
+OCI-Ly7	lymphoma	934
+Panc 04.03	pancreatic	930
+RPMI-8402	leukemia	930
+DiFi	colorectal	925
+DiFi	gardner syndrome	925
+769-P	renal	920
+MKN1	gastric	919
+BALL-1	leukemia	916
+KM-H2	lymphoma	913
+FTC-133	thyroid	909
+NCI-H510A	lung	906
+EB2	lymphoma	894
+CAL-27	tongue	893
+ABC-1	lung	881
+NCI-H2170	lung	863
+COR-L23	lung	839
+OCI-Ly19	lymphoma	839
+SK-N-DZ	neuroblastoma	839
+SBC-3	lung	838
+SW780	bladder	831
+HCC1143	breast	820
+NCI-H2452	mesothelioma	820
+NCI-H1792	lung	801
+KP-1N	pancreatic	796
+TE-10	esophageal	796
+JHU-022	oral	790
+GB-1	glioblastoma	784
+Hs 766T	pancreatic	784
+CCF-STTG1	astrocytoma	777
+LN-18	glioblastoma	775
+HT-1376	bladder	774
+PEO1	brca2 syndrome	771
+PEO1	ovarian	771
+SNU-5	gastric	757
+SUP-B15	leukemia	753
+SUP-T1	lymphoma	753
+NCI-H1155	lung	751
+SW900	lung	749
+Karpas-422	lymphoma	748
+M059J	glioblastoma	747
+NCI-H1666	lung	734
+SW626	colon	733
+OAW42	ovarian	720
+VL51	lymphoma	706
+HC-1	leukemia	701
+NCI-H660	prostate	698
+Ca Ski	cervical	691
+SK-N-BE(2)-M17	neuroblastoma	674
+TOV-21G	ovarian	673
+C2BBe1	colon	669
+NCI-H2087	lung	668
+Rh30	alveolar rhabdomyosarcoma	662
+JM-1	leukemia	661
+OE19	esophageal	654
+HDLM-2	lymphoma	652
+KYSE-150	esophageal	642
+OV-90	ovarian	632
+RPMI-7951	melanoma	630
+DG-75	lymphoma	629
+HT-144	melanoma	629
+LK-2	lung	626
+SK-N-FI	neuroblastoma	625
+SCC-15	tongue	624
+DAN-G	pancreatic	621
+OVCA420	ovarian	614
+Evsa-T	breast	604
+AN3-CA	endometrial	602
+NUGC-3	gastric	594
+TOV-112D	ovarian	592
+SW756	cervical	589
+NCI-H2030	lung	582
+NCI-H2126	lung	575
+SU.86.86	pancreatic	574
+Ca9-22	gingival	573
+SK-CO-1	colon	571
+SNU-449	hepatocellular	558
+SW1417	colon	553
+SBC-5	lung	549
+MC-CAR	myeloma	547
+MDA-MB-415	breast	543
+NB69	neuroblastoma	542
+SCC-3	lymphoma	542
+PaTu 8988t	pancreatic	540
+SK-MEL-3	melanoma	540
+BV-173	leukemia	533
+ML-1 [Human thyroid carcinoma]	thyroid	533
+HCC1569	breast	530
+SW837	rectal	530
+WSU-DLCL2	lymphoma	528
+NCI-H647	lung	525
+LAMA-84	leukemia	524
+EB3 [Human Burkitt lymphoma]	lymphoma	518
+SHP-77	lung	503
+CHP-212	neuroblastoma	502
+WRO	thyroid	502
+HCC1187	breast	498
+CAL-51	breast	492
+HSC-4	tongue	491
+HCC1395	breast	490
+TC-71	ewing sarcoma	482
+HT115	colon	480
+KCL-22	leukemia	478
+NCI-H524	lung	477
+SiSo	cervical	477
+HCC1500	breast	471
+RT-112	bladder	471
+MS751	cervical	463
+JVM-2	lymphoma	463
+CRO-AP3	lymphoma	458
+SF268	astrocytoma	454
+DOV13	ovarian	447
+RMG-I	ovarian	443
+451Lu	melanoma	441
+NCI-H2347	lung	439
+DMS 114	lung	438
+Hs 746.T	gastric	436
+Hep-G2/C3A	hepatoblastoma	433
+MZ-MEL-2	melanoma	430
+KYSE-510	esophageal	421
+647V	bladder	419
+Farage	lymphoma	418
+SK-MEL-24	melanoma	417
+HCC1428	breast	416
+ST486	lymphoma	414
+HCC78	lung	411
+NCI-H1944	lung	411
+CL-11	colon	410
+NCI-H1048	lung	410
+NCI-H1435	lung	408
+SKM-1	leukemia	408
+NCI-H1688	lung	402
+NCI-H1781	lung	402
+NCI-H841	lung	401
+NCI-H64	lung	399
+NCI-H720	lung	399
+HCC1419	breast	398
+Loucy	leukemia	397
+NCI-H1838	lung	397
+SU-DHL-8	lymphoma	395
+ALL-SIL	leukemia	390
+SNU-398	hepatocellular	388
+PWR-1E	prostate	379
+QGP-1	pancreatic	377
+SU-DHL-5	lymphoma	372
+SF126	glioblastoma	369
+RC-K8	lymphoma	368
+NCI-H196	lung	365
+FLO-1	esophageal	364
+PL4	pancreatic	361
+8305C	thyroid	358
+NCI-H211	lung	355
+IMR-5	neuroblastoma	354
+CL-40	colon	351
+SK-MEL-31	melanoma	350
+CHL-1	melanoma	348
+NCI-H1734	lung	348
+BL-41	lymphoma	343
+NOMO-1	leukemia	343
+B-CPAP	thyroid	341
+SUP-M2	lymphoma	341
+CHP-134	neuroblastoma	339
+KYSE-410	esophageal	338
+TE-8	esophageal	336
+NCI-H1648	lung	334
+NCI-H250	lung	334
+NCI-H2171	lung	333
+NCI-H1573	lung	331
+TT	thyroid	331
+TT	endocrine	331
+EFM-19	breast	330
+NCI-H740	lung	329
+NCI-H1581	lung	328
+SNB-75	glioblastoma	323
+MDA-MB-330	breast	322
+SU-DHL-10	lymphoma	322
+HCC202	breast	321
+HuH-1	hepatocellular	321
+SW1088	astrocytoma	319
+HT-1197	bladder	318
+WM278	melanoma	318
+NCI-H1755	lung	316
+PFSK-1	neuroectodermal	316
+COLO 320HSR	colon	315
+NCI-H1963	lung	315
+HT-29	rectosigmoid	314
+HO-1-N-1	oral	313
+NCI-H650	lung	313
+DND-41	leukemia	312
+SW1271	lung	307
+OE21	esophageal	302
+SNU-475	hepatocellular	302
+DMS 79	lung	301
+L-540	lymphoma	301
+NCI-H1563	lung	301
+MOLT-16	leukemia	298
+PL-21	leukemia	297
+MC116	lymphoma	296
+NCI-H2023	lung	296
+A-704	renal	294
+NCI-H1915	lung	294
+U-698-M	lymphoma	294
+PSN1	pancreatic	289
+NCI-H810	lung	288
+DMS 53	lung	283
+NCI-H2373	mesothelioma	283
+GA-10	lymphoma	282
+Panc 10.05	pancreatic	281
+EHEB	lymphoma	281
+NCI-H1417	lung	279
+HCC2218	breast	276
+WSU-NHL	lymphoma	273
+SW1710	bladder	272
+Panc 08.13	pancreatic	269
+SNU-182	hepatocellular	269
+MFM-223	breast	267
+SNU-387	hepatocellular	267
+Detroit 562	pharyngeal	266
+NCI-H1568	lung	266
+KE-37	leukemia	264
+TE-11	esophageal	261
+HCC15	lung	260
+SK-UT-1	uterine	260
+JSC-1	lymphoma	258
+A-431	vulvar	256
+HAL-01	leukemia	256
+GCIY	gastric	254
+HCC1599	breast	253
+CML-T1	leukemia	252
+DJM-1	skin	252
+OVISE	ovarian	252
+SK-MEL-30	melanoma	244
+GaMG	glioblastoma	243
+639V	bladder	242
+RERF-LC-MS	lung	241
+Lu-65	lung	239
+NCI-H513	lung	239
+201T	lung	238
+CW-2	colon	237
+COLO 829	melanoma	234
+SNU-423	hepatocellular	231
+Caov-4	ovarian	229
+HCC44	lung	228
+LS123	colon	228
+NCI-H1651	lung	227
+RCH-ACV	leukemia	226
+VMRC-LCD	lung	224
+Karpas-1106P	lymphoma	223
+ES1	ewing sarcoma	220
+Lu-134-A	lung	220
+L-1236	lymphoma	219
+Mel Ho	melanoma	217
+CAL-120	breast	216
+SH-4	melanoma	216
+NCI-H748	lung	214
+TE-5	esophageal	214
+SK-NEP-1	ewing sarcoma	212
+EFO-27	ovarian	210
+HuO9	osteosarcoma	210
+G-292 clone A141B1	osteosarcoma	209
+LC-2/ad	lung	209
+CAL-62	thyroid	208
+HuTu 80	duodenal	208
+SW872	cervical	206
+WM1552C	melanoma	205
+GDM-1	leukemia	204
+NCI-H1092	lung	204
+SR	lymphoma	204
+CTV-1	leukemia	203
+EFO-21	ovarian	203
+DMS 273	lung	202
+NOS-1 [Human osteosarcoma]	osteosarcoma	202
+PaTu 8902	pancreatic	202
+SKG-IIIa	cervical	202
+SNU-C1	colon	201
+CS-1 [Human chondrosarcoma]	chondrosarcoma	199
+OSC-19	tongue	199
+LCLC-103H	lung	196
+KOPN-8	leukemia	194
+NCI-H2227	lung	194
+NCI-H2342	lung	193
+ONS-76	medulloblastoma	193
+NCI-H2085	lung	190
+GI-ME-N	neuroblastoma	188
+MOLT-13	leukemia	187
+Panc 03.27	pancreatic	186
+TYK-nu	ovarian	186
+KYSE-70	esophageal	185
+SU-DHL-16	lymphoma	184
+NCI-H2196	lung	183
+A-253	salivary	182
+NCI-H1694	lung	181
+UWB1.289	brca1 syndrome	181
+UWB1.289	ovarian	181
+KU-19-19	bladder	180
+OCI-AML5	leukemia	177
+Panc 02.03	pancreatic	177
+NCI-H1876	lung	176
+NK-92MI	leukemia	176
+NCI-H2172	lung	175
+SW1463	rectal	175
+Rh1	ewing sarcoma	174
+OVTOKO	ovarian	173
+HCC-56	colon	171
+HCC366	lung	171
+S-117	thyroid	170
+KP-2	pancreatic	169
+CHP-126	neuroblastoma	168
+Rh18	alveolar rhabdomyosarcoma	168
+HCC2157	breast	167
+NCI-H835	lung	167
+TE-9	esophageal	167
+KP-3	pancreatic	166
+ALL-PO	leukemia	165
+NCI-H1693	lung	164
+NCI-H2291	lung	164
+NCI-H2110	lung	162
+TE-4	esophageal	162
+CaR-1	rectal	161
+DoTc2 4510	cervical	161
+JHH-7	hepatocellular	158
+BHT-101	thyroid	157
+CL-34	colon	157
+Karpas-231	lymphoma	153
+KYSE-450	esophageal	151
+SJNB-7	neuroblastoma	150
+TE-12	esophageal	150
+LA-N-6	neuroblastoma	149
+Rh41	alveolar rhabdomyosarcoma	149
+CAL-72	osteosarcoma	146
+NCI-H2141	lung	146
+SNG-M	endometrial	145
+TASK1	skin	145
+SBC-1	lung	143
+PF-382	leukemia	142
+VMRC-RCW	renal	139
+IGR-1	melanoma	138
+JHU-011	laryngeal	137
+JURL-MK1	leukemia	135
+TE-15	esophageal	135
+NCI-H2405	lung	133
+MN-60	leukemia	132
+CADO-ES1	ewing sarcoma	131
+KYSE-140	esophageal	131
+NCI-H847	lung	131
+SK-MG-1	astrocytoma	131
+BFTC-905	bladder	130
+OSC-20	oral	128
+NCI-H1836	lung	127
+NCI-H1869	lung	127
+MFE-296	endometrial	126
+NCI-H2444	lung	126
+KP-N-RT-BM-1	neuroblastoma	122
+RERF-LC-KJ	lung	122
+HD-MY-Z	lymphoma	120
+SW684	fibrosarcoma	120
+NCI-H2081	lung	117
+SF539	gliosarcoma	117
+TE-6	esophageal	117
+NCI-H1436	lung	116
+NCI-H716	cecum	116
+MOG-G-CCM	anaplastic astrocytoma	114
+YAPC	pancreatic	114
+AM-38	glioblastoma	112
+NEC8	testicular	112
+CAL-33	tongue	111
+HuH-6 Clone 5	hepatoblastoma	111
+NCI-H2135	lung	111
+EC-GI-10	esophageal	110
+SUP-HD1	lymphoma	109
+SJNB-5	neuroblastoma	108
+OAW28	ovarian	107
+ROS-50	lymphoma	105
+CPC-N	lung	103
+JHH-4	hepatocellular	102
+ATN-1	leukemia	101
+NKM-1	leukemia	101
+MRK-nu-1	breast	100
+NCI-H1623	lung	100
+SJNB-10	neuroblastoma	100
+A-673	ewing sarcoma	99
+KNS-62	lung	99
+LXF 289	lung	99
+A101D	melanoma	98
+Fu97	gastric	98
+P31/FUJ	leukemia	98
+NCI-H2461	mesothelioma	97
+SJNB-12	neuroblastoma	97
+KP-4	pancreatic	96
+Lu-135	lung	96
+NCI-H290	mesothelioma	95
+RPMI-6666	lymphoma	95
+HO-1-u-1	mouth	94
+QIMR-WIL	leukemia	94
+CAL-12T	lung	92
+D-245MG	glioblastoma	92
+HuP-T3	pancreatic	92
+NCI-H1304	lung	92
+OVK18	ovarian	92
+RPMI-8866	myeloid leukemia	92
+COLO 679	melanoma	91
+EFM-192A	breast	91
+P30/OHK	leukemia	91
+GP5d	colon	90
+IM95	gastric	90
+JHH-6	hepatocellular	89
+NH-12	neuroblastoma	88
+MCC13	merkel	87
+MOLM-16	leukemia	87
+SK-GT-4	esophageal	87
+EW-1	ewing sarcoma	86
+SJNB-6	neuroblastoma	85
+Kelly	neuroblastoma	83
+KYSE-180	esophageal	83
+UMC-11	lung	83
+Hs 633.T	fibrosarcoma	82
+KYSE-520	esophageal	82
+8-MG-BA	glioblastoma	80
+SNU-407	colon	80
+HDQ-P1	breast	79
+IPC-298	melanoma	79
+MFE-280	endometrial	79
+NCI-H1341	lung	79
+OVKATE	ovarian	79
+SW156	renal	79
+HuP-T4	pancreatic	78
+G-mel	melanoma	77
+NCI-H2029	lung	77
+UPCI-SCC-090	tongue	77
+NCI-H508	cecum	75
+CCK-81	colon	74
+MHH-NB-11	neuroblastoma	74
+NCI-H2066	lung	74
+CAL-148	breast	73
+H9	mycosis fungoides sezary syndrome	73
+SK-N-MC-IXC	skin	73
+BL-70	lymphoma	72
+COLO 824	breast	69
+JHH-1	hepatocellular	69
+VM-CUB-1	bladder	69
+Hs-445	lymphoma	69
+BONNA-12	leukemia	67
+KNS-42	glioblastoma	67
+MCC26	merkel	67
+DSH1	bladder	66
+KYSE-270	esophageal	66
+SK-PN-DW	neuroectodermal	66
+SW1783	anaplastic astrocytoma	66
+42-MG-BA	glioblastoma	64
+ASH-3	thyroid	64
+NU-DUL-1	lymphoma	64
+OCI-M1	leukemia	64
+DOK	oral	62
+IHH-4	thyroid	62
+YKG-1	glioblastoma	62
+CAL-29	bladder	61
+HCC33	lung	61
+KY821	leukemia	61
+LB831-BLC	bladder	61
+KO52	leukemia	60
+Lu-139	lung	60
+CGTH-W-1	thyroid	59
+COLO 741	melanoma	59
+HTC-C3	thyroid	59
+MHH-CALL-4	leukemia	58
+ECC10	gastric	56
+HT-55	colon	56
+MHH-PREB-1	lymphoma	56
+RPMI-2650	head neck	56
+COR-L88	lung	55
+EPLC-272H	lung	55
+GR-ST	leukemia	55
+Lu-165	lung	55
+MHH-ES-1	ewing sarcoma	55
+OCUB-M	breast	55
+COR-L105	lung	54
+JHH-2	hepatocellular	53
+NCI-H2595	mesothelioma	53
+CP66-MEL	melanoma	52
+MHH-CALL-2	leukemia	52
+OV7	ovarian	52
+TGBC11TKB	gastric	51
+A4/Fukuda	leukemia	50
+EW-7	ewing sarcoma	50
+KYAE-1	esophageal	50
+LCLC-97TM1	lung	50
+SNU-81	colon	50
+CTB-1	lymphoma	49
+CAL-85-1	breast	48
+ECC12	gastric	48
+H-EMC-SS	chondrosarcoma	48
+HCE-4	esophageal	48
+MOG-G-UVW	anaplastic astrocytoma	48
+RF-48	lymphoma	48
+OV56	ovarian	47
+PL18 [Human pancreatic adenocarcinoma]	pancreatic	47
+COLO 678	colon	46
+PE/CA-PJ15	tongue	45
+CAL-54	renal	44
+ChaGo-K-1	bronchogenic	44
+DK-MG	glioblastoma	44
+MDST8	colon	44
+A-204	embryonal rhabdomyosarcoma	43
+A3/Kawakami	lymphoma	43
+LOU-NH91	lung	43
+COLO 800	melanoma	42
+Hs 683	oligodendroglioma	42
+JHOS-2	ovarian	42
+SJNB-14	neuroblastoma	42
+SUP-B8	leukemia	42
+MPP 89	mesothelioma	41
+RCC10RGB	renal	41
+SIG-M5	leukemia	40
+BB65-RCC	renal	38
+BFTC-909	renal	38
+IST-Mes1	mesothelioma	38
+TGBC1TKB	gallbladder	38
+NCI-H2591	mesothelioma	37
+NCI-H630	intestine	37
+COLO 680N	esophageal	36
+LN-405	glioblastoma	36
+SNU-1040	colon	36
+SW962	vulvar	36
+HuO-3N1	osteosarcoma	35
+KTCTL-1M	renal	35
+SJNB-17	neuroblastoma	35
+TT2609-C02	thyroid	35
+VMRC-MELG	melanoma	35
+KMOE-2	leukemia	34
+LB1047-RCC	renal	34
+LB996-RCC	renal	34
+MZ-MEL-7	melanoma	34
+RERF-LC-FM	lung	34
+SW982	biphasic synovial sarcoma	34
+LC4-1	leukemia	33
+NCI-H747	cecum	33
+SJNB-13	neuroblastoma	33
+VMRC-RCZ	renal	32
+KYSE-220	esophageal	30
+FU-OV-1	ovarian	29
+KTCTL-26A	renal	29
+EGI-1	cholangio	28
+GMS-10	glioblastoma	28
+KTCTL-13	renal	28
+ES4	ewing sarcoma	27
+SK-GT-2	gastric	27
+YH-13	glioblastoma	27
+D-263MG	glioblastoma	26
+Hs 940.T	melanoma	26
+CAL-78	chondrosarcoma	25
+COR-L32	lung	25
+RVH-421	melanoma	25
+KMRC-1	renal	24
+D-247MG	gliosarcoma	23
+ES8	ewing sarcoma	23
+GI-1	gliosarcoma	23
+IA-LM	lung	23
+KALS-1	glioblastoma	23
+KATO III	down syndrome	23
+KATO III	signet ring gastric	23
+LNZTA3WT4	astrocytoma	23
+SNU-175	colon	23
+SW954	vulvar	23
+U-CH2	sacral chordoma	23
+COLO 792	melanoma	22
+EW-3	ewing sarcoma	22
+KMH-2	thyroid	22
+LS513	cecum	22
+ES3	ewing sarcoma	21
+GEO	colon	21
+MLMA	leukemia	21
+RD	embryonal rhabdomyosarcoma	21
+SK-LMS-1	vulvar	21
+COLO 668	lung	20
+KYSE-50	esophageal	20
+NCC-IT	testicular	20
+PCI-30	tongue	20
+Ramos.2G6.4C10	lymphoma	20
+SNU-C2B	cecum	20
+23132/87	gastric	19
+KP-N-YN	neuroblastoma	19
+NMC-G1	astrocytoma	19
+TGBC24TKB	gallbladder	19
+COLO 684	endometrial	18
+ES6	ewing sarcoma	18
+KINGS-1	anaplastic astrocytoma	18
+ES7	ewing sarcoma	17
+EW-11	ewing sarcoma	17
+KOSC-2	head neck	17
+KP-N-YS	neuroblastoma	17
+KTCTL-21	renal	17
+RL95-2	endometrial adeno	17
+COR-L279	lung	16
+JHOS-3	ovarian	16
+LS411N	cecum	16
+LS1034	cecum	15
+TC-YIK	cervical	15
+KYM-1	alveolar rhabdomyosarcoma	14
+MCF-7	ductal not	14
+PCI-04B	laryngeal	14
+SNU-C5	cecum	14
+VA-ES-BJ	epithelioid sarcoma	14
+MZ-PC-1	pancreatic	13
+RERF-LC-Sq1	lung	13
+CAL-39	vulvar	12
+Hs 939.T	melanoma	12
+NB(TU)1	neuroblastoma	12
+NCI-H2818	mesothelioma	12
+HA7-RCC	renal	11
+HMV-II	vaginal	11
+MC-1010	leukemia	11
+MFH-ino	sarcoma	11
+NCI-H2731	mesothelioma	11
+NCI-H2795	mesothelioma	11
+NCI-H2810	mesothelioma	11
+OC 314	ovarian	11
+RCM-1 [Human rectum adenocarcinoma]	rectal	11
+TGW	adrenal	11
+JHOS-4	ovarian	10
+KTCTL-140	renal	10
+KTCTL-195	renal	10
+OACM5.1 C	esophageal	10
+OV17R	ovarian	10
+RERF-GC-1B	gastric	10
+EW-12	ewing sarcoma	9
+NCI-H2804	mesothelioma	9
+UD-SCC-2	hypopharyngeal	9
+D-423MG	glioblastoma	8
+ES5	ewing sarcoma	8
+NCI-H929	plasma myeloma	8
+LB2518-MEL	melanoma	7
+Lu-99A	lung	7
+NCI-H2869	mesothelioma	7
+SNU-61	rectal	7
+TE 441.T	rhabdomyosarcoma	7
+BICR 31	tongue	6
+D-336MG	glioblastoma	6
+D-542MG	glioblastoma	6
+EW-16	ewing sarcoma	6
+IST-MEL1	melanoma	6
+MMAc-SF	melanoma	6
+OACP4 C	esophageal	6
+PCI-38	tongue	6
+RPMI-8226	plasma myeloma	6
+BICR 22	tongue	5
+BICR 78	oral	5
+COR-L95	lung	5
+EW-24	ewing sarcoma	5
+JHU-029	laryngeal	5
+KMRC-20	renal	5
+NCI-H2722	mesothelioma	5
+NCI-H2803	mesothelioma	5
+NCI-H3118	parotid mucoepidermoid	5
+TUR	leukemia	5
+BICR 10	buccal mucosa	4
+COLO 783	melanoma	4
+CP50-MEL-B	melanoma	4
+D-502MG	glioblastoma	4
+ESO-51	esophageal	4
+EW-18	ewing sarcoma	4
+HSC-39	signet ring gastric	4
+IST-SL1	lung	4
+IST-SL2	lung	4
+KNS-81-FD	glioblastoma	4
+NCI-H2369	mesothelioma	4
+OMC-1 [Human cervical carcinoma]	cervical	4
+OVMIU	ovarian	4
+SKN-3	head neck	4
+SNU-283	rectal	4
+D-566MG	glioblastoma	3
+ESO-26	esophageal	3
+EW-13	ewing sarcoma	3
+EW-22	ewing sarcoma	3
+JEG-3	gestational chorio	3
+KMS-11	plasma myeloma	3
+LB373-MEL-D	melanoma	3
+LP-1	plasma myeloma	3
+MDA-MB-436	ductal not	3
+NBsusSR	neuroblastoma	3
+U266B1	plasma myeloma	3
+BT-549	ductal not	2
+COR-L311	lung	2
+D-392MG	glioblastoma	2
+EMC-BAC-2	lung	2
+HARA [Human squamous cell lung carcinoma]	lung	2
+HuCC-T1	intrahepatic cholangio	2
+KMS-12-BM	plasma myeloma	2
+LB2241-RCC	renal	2
+LB647-SCLC	lung	2
+OPM-2	plasma myeloma	2
+STS-0421	gastric	2
+BB30-HNC	head neck	1
+BB49-HNC	head neck	1
+BT-20	ductal not	1
+CHSA0011	chondrosarcoma	1
+CHSA8926	chondrosarcoma	1
+COR-L303	lung	1
+CP67-MEL	melanoma	1
+EMC-BAC-1	lung	1
+ETK-1	intrahepatic cholangio	1
+HEL	leukemia	1
+HH [Human lymphoma]	lymphoma	1
+JJN-3	plasma myeloma	1
+Karpas-620	plasma myeloma	1
+KS-1 [Human glioblastoma]	glioblastoma	1
+L-363	plasma myeloma	1
+LB771-HNC	head neck	1
+MFE-319	endometrial adeno	1
+MM1.S	plasma myeloma	1
+NCC010	renal	1
+NCC021	renal	1
+NUGC-4	signet ring gastric	1
+PCI-06A	tonsillar	1
+Sarc9371	osteosarcoma	1
+T-47D	ductal not	1
+PC-3_[JPC-3]	lung	1
+IM-9	lymphoid neoplasm	1
+JVM-3	lymphoid neoplasm	1
+5637	bladder	NA
+ACN	neuroblastoma	NA
+AGS	gastric	NA
+AMO1	plasma myeloma	NA
+Becker	astrocytoma	NA
+BEN	lung	NA
+BHY	head neck	NA
+BT-474	ductal not	NA
+BT-483	ductal not	NA
+CHSA0108	chondrosarcoma	NA
+CMK	down syndrome	NA
+CMK	leukemia	NA
+COR-L321	lung	NA
+DB	lymphoma	NA
+DEL	lymphoma	NA
+EJM	plasma myeloma	NA
+EN	endometrial	NA
+ESS-1	endometrioid sarcoma	NA
+G-401	rhabdoid kidney	NA
+G-402	epithelioid type gastrointestinal	NA
+GAK	vulvar	NA
+GCT	sarcoma	NA
+GOTO	neuroblastoma	NA
+HEY	ovarian	NA
+HLE	hepatocellular	NA
+HN	oral	NA
+HOS	osteosarcoma	NA
+Hs 578T	ductal not	NA
+HT	lymphoma	NA
+JAR	gestational chorio	NA
+K2 [Human melanoma]	melanoma	NA
+K5	thyroid	NA
+KGN	ovarian	NA
+KLE	endometrial	NA
+KON	oral	NA
+MDA-MB-175-VII	ductal not	NA
+MES-SA	uterine	NA
+Mo	leukemia	NA
+MOLP-8	plasma myeloma	NA
+MY-M12	leukemia	NA
+NY	osteosarcoma	NA
+OCUM-1	signet ring gastric	NA
+PCI-15A	pyriform fossa	NA
+Reh	leukemia	NA
+RKN	ovarian	NA
+RKO	colon	NA
+RL	lymphoma	NA
+SAS	tongue	NA
+SAT [Human HNSCC]	head neck	NA
+SCH	gastric	NA
+SiMa	adrenal	NA
+SK-MM-2	plasma myeloma	NA
+SKN	uterine	NA
+T.T	esophageal	NA
+TK [Human B-cell lymphoma]	lymphoma	NA
+UACC-812	ductal not	NA
+UACC-893	ductal not	NA
+VAL	lymphoma	NA
+YMB-1-E	ductal not	NA
+YT	leukemia	NA
+ZR-75-30	ductal not	NA
+WIL2-NS	lymphoid neoplasm	NA

@@ -1,0 +1,42 @@
+cclp	cellosaurus	search
+NCI-H630		intestine
+KS-1	KS-1 [Human glioblastoma]	glioblastoma
+RCM-1	RCM-1 [Human rectum adenocarcinoma]	rectum
+HH	HH [Human lymphoma]	lymphoma
+Hs-445		lymphoma
+HARA	HARA [Human squamous cell lung carcinoma]	lung
+BPH-1		prostate
+K2	K2 [Human melanoma]	melanoma
+TK	TK [Human B-cell lymphoma]	lymphoma
+JVM-2		lymphoma
+RPMI-6666		lymphoma
+TALL-1	TALL-1 [Human adult T-ALL]	leukemia
+ARH-77		myeloma
+WIL2-NS		lymphoid neoplasm
+NOS-1	NOS-1 [Human osteosarcoma]	osteosarcoma
+PC-3_[JPC-3]		lung
+ML-1	ML-1 [Human thyroid carcinoma]	thyroid
+RPMI-8866		myeloid leukemia
+CESS		myeloid leukemia
+C32	C32 [Human melanoma]	melanoma
+PL18	PL18 [Human pancreatic adenocarcinoma]	pancreatic
+IM-9		lymphoid neoplasm
+JVM-3		lymphoid neoplasm
+OMC-1	OMC-1 [Human cervical carcinoma]	cervical
+SAT	SAT [Human HNSCC]	hnscc
+G-292_Clone_A141B1	G-292 clone A141B1	osteosarcoma
+MC-CAR		myeloma
+Hep_3B2_1-7	Hep 3B2.1-7	
+MS-1	MS-1 [Human lung carcinoma]	lung
+H290	NCI-H290	mesothelioma
+PWR-1E		prostate
+UWB1_289	UWB1.289	ovarian
+EHEB		lymphoma
+ME-1	ME-1 [Human leukemia]	leukemia
+NTERA-2_cl_D1	NT2-D1	testis
+M14	M14	melanoma
+PC-3	PC-3	prostate
+ES-2	ES-2	ovarian
+NB1	NB1	neuroblastoma
+697	697	leukemia
+U-87-MG	U-87MG ATCC	glioma
