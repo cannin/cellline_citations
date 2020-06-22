@@ -1,0 +1,806 @@
+ncit	disease	search
+C80307	Waldenstrom macroglobulinemia	waldenstrom
+Orphanet_424046	Acinar cell carcinoma of pancreas	pancreatic
+C4022	Acral lentiginous melanoma	melanoma
+C4673	Acute biphenotypic leukemia	leukemia
+Orphanet_318	Acute erythroid leukemia	leukemia
+C8923	Acute erythroid leukemia	leukemia
+C7464	Acute leukemia of ambiguous lineage	leukemia
+C3167	Acute lymphoblastic leukemia	leukemia
+Orphanet_513	Acute lymphoblastic leukemia	leukemia
+Orphanet_518	Acute megakaryoblastic leukemia	leukemia
+C3170	Acute megakaryoblastic leukemia	leukemia
+Orphanet_99887	Acute megakaryoblastic leukemia in Down syndrome	leukemia
+C7171	Acute monoblastic leukemia	leukemia
+Orphanet_514	Acute monoblastic leukemia	leukemia
+Orphanet_98834	Acute myeloblastic leukemia with maturation	leukemia
+Orphanet_519	Acute myeloid leukemia	leukemia
+C3171	Acute myeloid leukemia	leukemia
+C82426	"Acute myeloid leukemia with inv(3) (q21.3;q26.2) or t(3;3) (q21.3;q26.2) GATA2, MECOM"	leukemia
+Orphanet_402020	Acute myeloid leukemia with inv3(q21;q26.2) or t(3;3)(q21;q26.2)	leukemia
+Orphanet_98832	Acute myeloid leukemia with minimal differentiation	leukemia
+C8460	Acute myeloid leukemia with minimal differentiation	leukemia
+C7600	Acute myeloid leukemia with myelodysplasia-related changes	leukemia
+C132105	"Acute myeloid leukemia with t(6;11)(q27;q23), KMT2A-MLLT4"	leukemia
+C7463	Acute myelomonocytic leukemia	leukemia
+Orphanet_517	Acute myelomonocytic leukemia	leukemia
+Orphanet_520	Acute promyelocytic leukemia	leukemia
+C3182	Acute promyelocytic leukemia with t(15;17)(q22;q12) PML-RARA	leukemia
+Orphanet_213504	Adenocarcinoma of ovarian	ovarian
+Orphanet_213772	Adenocarcinoma of the cervix uteri	cervical
+Orphanet_99976	Adenocarcinoma of the esophagus	esophagus
+Orphanet_424991	Adenocarcinoma of the gallbladder and extrahepatic biliary tract	gallbladder
+Orphanet_104075	Adenocarcinoma of the small instestine	intestine
+C9133	Adenosquamous lung carcinoma	lung
+C9325	Adrenal cortex carcinoma	adrenal
+C4827	Adrenal gland neuroblastoma	adrenal
+C3326	Adrenal gland pheochromocytoma	adrenal
+C7965	Adult acute megakaryoblastic leukemia	leukemia
+C8263	Adult acute monocytic leukemia	leukemia
+C9154	Adult acute myeloid leukemia	leukemia
+C7961	Adult acute myeloid leukemia with maturation	leukemia
+C8303	Adult acute myeloid leukemia with minimal differentiation	leukemia
+C9143	Adult B acute lymphoblastic leukemia	leukemia
+C114819	Adult B acute lymphoblastic leukemia with t(9;22)(q34;q11.2) BCR-ABL1	leukemia
+C7954	Adult Burkitt leukemia	leukemia
+C7956	Adult hepatocellular carcinoma	hepatocellular
+Orphanet_210159	Adult hepatocellular carcinoma	hepatocellular
+C7873	Adult immunoblastic lymphoma	lymphoma
+C9142	Adult T acute lymphoblastic leukemia	leukemia
+C7226	Adult T lymphoblastic lymphoma	lymphoma
+C8285	AIDS-related immunoblastic lymphoma	lymphoma
+C3992	AIDS-related Kaposi sarcoma	sarcoma
+C5051	AIDS-related non-Hodgkin lymphoma	lymphoma
+Orphanet_300903	ALK-negative anaplastic large cell lymphoma	lymphoma
+Orphanet_300895	ALK-positive anaplastic large cell lymphoma	lymphoma
+C3749	Alveolar rhabdomyosarcoma	rhabdomyosarcoma
+Orphanet_99756	Alveolar rhabdomyosarcoma	rhabdomyosarcoma
+C3750	Alveolar soft part sarcoma	sarcoma
+Orphanet_163699	Alveolar soft tissue sarcoma	sarcoma
+C3802	Amelanotic melanoma	melanoma
+C4633	Amelanotic skin melanoma	melanoma
+C6650	Ampulla of Vater adenocarcinoma	ampulla of vater
+C27418	Ampulla of Vater adenosquamous carcinoma	ampulla of vater
+C95966	Ampulla of Vater hepatoid adenocarcinoma	ampulla of vater
+C96549	Anal canal neuroendocrine carcinoma	anal
+C9161	Anal squamous cell carcinoma	anal
+C9477	Anaplastic astrocytoma	astrocytoma
+Orphanet_251589	Anaplastic astrocytoma	astrocytoma
+C3720	Anaplastic large cell lymphoma	lymphoma
+Orphanet_98841	Anaplastic large cell lymphoma	lymphoma
+C37194	"Anaplastic large cell lymphoma, ALK-negative"	lymphoma
+C37193	"Anaplastic large cell lymphoma, ALK-positive"	lymphoma
+Orphanet_251663	Anaplastic oligoastrocytoma	glioma
+C6959	Anaplastic oligoastrocytoma	astrocytoma
+C4326	Anaplastic oligodendroglioma	glioma
+Orphanet_251630	Anaplastic oligodendroglioma	glioma
+Orphanet_142	Anaplastic thyroid carcinoma	thyroid
+Orphanet_263413	Angiosarcoma	angiosarcoma
+C3088	Angiosarcoma	angiosarcoma
+C7542	Askin tumor	askin
+C60781	Astrocytoma	astrocytoma
+Orphanet_94	Astrocytoma	astrocytoma
+Orphanet_100	Ataxia telangiectasia	ataxia telangiectasia
+C2887	Ataxia telangiectasia syndrome	ataxia telangiectasia
+Orphanet_98824	Atypical chronic myeloid leukemia	leukemia
+C3519	"Atypical chronic myeloid leukemia, BCR-ABL1 negative"	leukemia
+Orphanet_99966	Atypical teratoid rhabdoid tumor	rhabdoid
+C6906	Atypical teratoid/rhabdoid tumor	rhabdoid
+C8644	B acute lymphoblastic leukemia	leukemia
+C80347	B acute lymphoblastic leukemia with t(1;19)(q23;p13.3) E2A-PBX1 (TCF3-PBX1)	leukemia
+C36312	B acute lymphoblastic leukemia with t(9;22)(q34;q11.2) BCR-ABL1	leukemia
+C80342	B acute lymphoblastic leukemia with t(v;11q23) KMT2A rearranged	leukemia
+Orphanet_67038	B-cell chronic lymphocytic leukemia	leukemia
+C80291	"B-cell lymphoma, unclassifiable, with features intermediate between diffuse large B-cell lymphoma and Burkitt lymphoma"	lymphoma
+C27907	B-cell neoplasm	neoplasm
+C3457	B-cell non-Hodgkin lymphoma	lymphoma
+Orphanet_171915	B-cell non-Hodgkin lymphoma	lymphoma
+C4753	B-cell prolymphocytic leukemia	leukemia
+Orphanet_86852	B-cell prolymphocytic leukemia	leukemia
+C7027	Barrett adenocarcinoma	barrett
+C3739	Benign fibrous histiocytoma	histiocytoma
+C3630	Benign parathyroid gland neoplasm	parathyroid
+C2897	Benign prostatic hyperplasia	prostate
+C5978	Benign salivary gland myoepithelioma	myoepithelioma
+C3829	Benign synovial neoplasm	synovial
+C27813	Bile duct adenocarcinoma	bile
+C4279	Biphasic synovial sarcoma	synovial
+C28244	Birt-Hogg-Dube syndrome	birt-hogg-dube 
+Orphanet_122	Birt-Hogg-Dube syndrome	birt-hogg-dube 
+Orphanet_124	Blackfan-Diamond anemia	blackfan-diamond
+C4912	Bladder carcinoma	bladder
+C4031	Bladder squamous cell carcinoma	bladder
+C39851	Bladder urothelial carcinoma	bla
+C7203	Blastic plasmacytoid dendritic cell neoplasm	dendritic
+C6604	Bone fibrosarcoma	bone
+C7154	Bone leiomyosarcoma	bone
+Orphanet_206473	Borderline epithelial tumor of ovarian	ovarian
+C5226	Borderline ovarian serous tumor	ovarian
+C2907	Brain neoplasm	brain
+C36100	BRCA1 syndrome	ovarian
+C36101	BRCA2 syndrome	ovarian
+C5214	Breast adenocarcinoma	breast
+C4872	Breast carcinoma	breast
+C5169	Breast neuroendocrine neoplasm	breast
+C35875	Bronchogenic carcinoma	lung
+C4040	Buccal mucosa squamous cell carcinoma	oral
+Orphanet_543	Burkitt lymphoma	burkitt
+C2912	Burkitt lymphoma	burkitt
+Orphanet_100093	Carcinoid syndrome	bronchogenic
+Orphanet_70482	Carcinoma of esophagus	esophagus
+Orphanet_56044	Carcinoma of gallbladder and extrahepatic biliary tract	gallbladder
+Orphanet_300557	Carcinoma of the ampulla of Vater	ampulla of vater
+C6194	Carcinoma of the collecting ducts of Bellini	bellini
+Orphanet_213610	Carcinosarcoma of the corpus uteri	corpus uteri
+C5543	Cecum adenocarcinoma	colon
+Orphanet_251870	Central nervous system primitive neuroectodermal tumor	central nervous system
+C7611	Cerebral lymphoma	cerebral
+C4029	Cervical adenocarcinoma	cervical
+C4519	Cervical adenosquamous carcinoma	cervical
+C40212	"Cervical adenosquamous carcinoma, glassy cell variant"	cervical
+C9039	Cervical carcinoma	cervical
+C6344	Cervical clear cell adenocarcinoma	cervical
+C6343	Cervical endometrioid adenocarcinoma	cervical
+C40187	Cervical keratinizing squamous cell carcinoma	cervical
+C40206	"Cervical mucinous adenocarcinoma, minimal deviation type"	cervical
+C128045	Cervical neuroendocrine carcinoma	cervical
+C7982	Cervical small cell carcinoma	cervical
+C4028	"Cervical squamous cell carcinoma, not otherwise specified"	cervical
+C3168	Childhood acute lymphoblastic leukemia	leukemia
+C7972	Childhood acute megakaryoblastic leukemia	leukemia
+C9163	Childhood acute monocytic leukemia	leukemia
+C9160	Childhood acute myeloid leukemia	leukemia
+C9381	Childhood acute myeloid leukemia with maturation	leukemia
+C9140	Childhood B acute lymphoblastic leukemia	leukemia
+C68659	Childhood B acute lymphoblastic leukemia with t(9;22)(q34;q11.2) BCR-ABL1	leukemia
+C7320	"Childhood chronic myelogenous leukemia, BCR-ABL1 positive"	leukemia
+C27372	Childhood desmoplastic small round cell tumor	desmoplastic
+C115203	"Childhood embryonal tumor with multilayered rosettes, C19MC-altered"	embryonal
+C7955	Childhood hepatocellular carcinoma	hepatocellular
+C114483	Childhood Langerhans cell histiocytosis	langerhans
+C5165	Childhood lymphoma	lymphoma
+C114812	Childhood pineoblastoma	pineoblastoma
+C7953	Childhood T acute lymphoblastic leukemia	leukemia
+C7210	Childhood T lymphoblastic lymphoma	lymphoma
+C4436	Cholangiocarcinoma	cholangiocarcinoma
+Orphanet_70567	Cholangiocarcinoma	cholangiocarcinoma
+C4021	Chondroblastic osteosarcoma	osteosarcoma
+C2946	Chondrosarcoma	sarcoma
+Orphanet_55880	Chondrosarcoma	sarcoma
+Orphanet_178	Chordoma	chordoma
+C2947	Chordoma	chordoma
+C4715	Choroid plexus carcinoma	choroid plexus
+Orphanet_251899	Choroid plexus carcinoma	choroid plexus
+C3698	Choroid plexus papilloma	choroid plexus
+C4146	Chromophobe renal cell carcinoma	renal
+Orphanet_319303	Chromophobe renal cell carcinoma	renal
+Orphanet_168940	Chronic eosinophilic leukemia	leukemia
+C4563	"Chronic eosinophilic leukemia, not otherwise specified"	leukemia
+C3163	Chronic lymphocytic leukemia	leukemia
+C3174	"Chronic myelogenous leukemia, BCR-ABL1 positive"	leukemia
+Orphanet_521	Chronic myeloid leukemia	leukemia
+C3179	Chronic neutrophilic leukemia	leukemia
+Orphanet_86829	Chronic neutrophilic leukemia	leukemia
+C165663	CIC-DUX4 sarcoma	sarcoma
+Orphanet_58017	Classic hairy cell leukemia	leukemia
+Orphanet_398971	Clear cell adenocarcinoma of the ovarian	ovarian
+C54300	Clear cell odontogenic carcinoma	odontogenic
+Orphanet_319276	Clear cell renal carcinoma	renal
+C4033	Clear cell renal cell carcinoma	renal
+C3745	Clear cell sarcoma of soft tissue	sarcoma
+C5412	Clivus chordoma	clivus
+Orphanet_247203	Collecting duct carcinoma	collecting duct
+C4349	Colon adenocarcinoma	colon
+C4910	Colon carcinoma	colon
+C7966	Colon mucinous adenocarcinoma	colon
+C7967	Colon signet ring cell adenocarcinoma	colon
+C5105	Colorectal adenocarcinoma	colorectal
+C5673	Colorectal adenoma	colorectal
+C2955	Colorectal carcinoma	colorectal
+C96157	Colorectal large cell neuroendocrine carcinoma	colorectal
+C43585	Colorectal mucinous adenocarcinoma	colorectal
+C96156	Colorectal neuroendocrine carcinoma	colorectal
+C3828	Combined hepatocellular carcinoma and cholangiocarcinoma	hepatocellular
+Orphanet_529852	Combined hepatocellular carcinoma and cholangiocarcinoma	hepatocellular
+C6569	Congenital mesoblastic nephroma	nephroma
+Orphanet_2665	Congenital mesoblastic nephroma	nephroma
+C61236	Congenital pure red cell aplasia	aplasia
+C4550	Conjunctival melanoma	melanoma
+C4549	Conjunctival squamous cell carcinoma	squamous
+C3510	Cutaneous melanoma	melanoma
+Orphanet_79140	Cutaneous neuroendocrine carcinoma	neuroendocrine
+C3467	Cutaneous T-cell non-Hodgkin lymphoma	lymphoma
+C2975	Cystic fibrosis	pancreatic
+Orphanet_586	Cystic fibrosis	pancreatic
+C6476	Dedifferentiated chondrosarcoma	chondrosarcoma
+C3704	Dedifferentiated liposarcoma	liposarcoma
+Orphanet_99970	Dedifferentiated liposarcoma	liposarcoma
+C4683	Dermatofibrosarcoma protuberans	protuberans
+Orphanet_31112	Dermatofibrosarcoma protuberans	protuberans
+Orphanet_83469	Desmoplastic small round cell tumor	small round cell
+C4956	Desmoplastic/nodular medulloblastoma	medulloblastoma
+Orphanet_251863	Desmoplastic/nodular medulloblastoma	medulloblastoma
+Orphanet_146	Differentiated thyroid carcinoma	thyroid
+C9159	Diffuse gastric adenocarcinoma	gastric
+C94764	Diffuse intrinsic pontine glioma	glioma
+Orphanet_497188	Diffuse intrinsic pontine glioma	glioma
+C8851	Diffuse large B-cell lymphoma	lymphoma
+Orphanet_544	Diffuse large B-cell lymphoma	lymphoma
+C36081	Diffuse large B-cell lymphoma activated B-cell type	lymphoma
+C36080	Diffuse large B-cell lymphoma germinal center B-cell type	lymphoma
+C3052	Digestive system neoplasm	digestive
+C2993	Down syndrome	leukemia
+Orphanet_870	Down syndrome	leukemia
+C4017	Ductal breast carcinoma	breast
+C7889	Duodenal adenocarcinoma	duodenal
+C135080	Duodenal neuroendocrine tumor	neuroendocrine
+Orphanet_100076	Duodenal neuroendocrine tumor	neuroendocrine
+Orphanet_303	Dystrophic epidermolysis bullosa	epidermolysis
+C3752	Embryonal carcinoma	embryonal
+Orphanet_180226	Embryonal carcinoma	embryonal
+C8971	Embryonal rhabdomyosarcoma	rhabdomyosarcoma
+Orphanet_99757	Embryonal rhabdomyosarcoma	rhabdomyosarcoma
+C3008	Enchondromatosis	enchondromatosis
+C35874	Endemic African Kaposi sarcoma	kaposi
+C7359	Endometrial adenocarcinoma	endometrial
+C114656	Endometrial adenosquamous carcinoma	endometrial
+C7558	Endometrial carcinoma	endometrial
+C8028	Endometrial clear cell adenocarcinoma	endometrial
+C6290	"Endometrial endometrioid adenocarcinoma, variant with squamous differentiation"	endometrial
+C27838	Endometrial serous adenocarcinoma	endometrial
+Orphanet_213711	Endometrial stromal sarcoma	sarcoma
+Orphanet_454723	Endometrioid carcinoma of ovarian	ovarian
+C8973	Endometrioid stromal sarcoma	sarcoma
+C3016	Eosinophilic granuloma	granuloma
+Orphanet_99871	Eosinophilic granuloma	granuloma
+C3017	Ependymoma	ependymoma
+Orphanet_251636	Ependymoma	ependymoma
+C84691	Epidermolysis bullosa dystrophica	epidermolysis
+C3486	Epithelioid cell type gastrointestinal stromal tumor	gastrointestinal
+C3800	Epithelioid hemangioendothelioma	hemangioendothelioma
+Orphanet_157791	Epithelioid hemangioendothelioma	hemangioendothelioma
+C3714	Epithelioid sarcoma	sarcoma
+Orphanet_293202	Epithelioid sarcoma	sarcoma
+C27694	Epstein-Barr virus-related Burkitt lymphoma	lymphoma
+C7152	Erythroleukemia	leukemia
+C4025	Esophageal adenocarcinoma	esophageal
+C3513	Esophageal carcinoma	esophageal
+C6762	Esophageal small cell neuroendocrine carcinoma	esophageal
+C4024	Esophageal squamous cell carcinoma	esophageal
+C3407	Essential thrombocythemia	thrombocythemia
+Orphanet_3318	Essential thrombocythemia	thrombocythemia
+Orphanet_1957	Esthesioneuroblastoma	neuroblastoma
+C4817	Ewing sarcoma	ewing sarcoma
+Orphanet_319	Ewing sarcoma	ewing sarcoma
+C27291	Ewing sarcoma/peripheral primitive neuroectodermal tumor	ewing sarcoma
+C35871	Ewing sarcoma/peripheral primitive neuroectodermal tumor of bone	ewing sarcoma
+C5328	Extra-adrenal retroperitoneal paraganglioma	paraganglioma
+C7327	Extragonadal seminoma	seminoma
+Orphanet_86879	Extranodal nasal NK/T cell lymphoma	lymphoma
+C7135	Extraosseous Ewing sarcoma	ewing sarcoma
+C6586	Extrarenal rhabdoid tumor	rhabdoid
+Orphanet_370334	Extraskeletal Ewing sarcoma	ewing sarcoma
+C27502	Extraskeletal myxoid chondrosarcoma	chondrosarcoma
+Orphanet_209916	Extraskeletal myxoid chondrosarcoma	chondrosarcoma
+C8810	Extraskeletal osteosarcoma	osteosarcoma
+C3867	Fallopian tube carcinoma	fallopian
+C3339	Familial adenomatous polyposis	polyposis
+Orphanet_733	Familial adenomatous polyposis	polyposis
+Orphanet_99361	Familial medullary thyroid carcinoma	thyroid
+Orphanet_1333	Familial pancreatic carcinoma	pancreatic
+Orphanet_84	Fanconi anemia	fanconi
+C62505	Fanconi anemia	fanconi
+C125702	"Fanconi anemia, complementation group A"	fanconi
+C125704	"Fanconi anemia, complementation group C"	fanconi
+C125705	"Fanconi anemia, complementation group D1"	fanconi
+C164677	"Fanconi anemia, complementation group L"	fanconi
+C4322	Fibrillary astrocytoma	astrocytoma
+Orphanet_251601	Fibrillary astrocytoma	astrocytoma
+C7075	Fibroblastic neoplasm	fibroblastic
+C3043	Fibrosarcoma	sarcoma
+Orphanet_2030	Fibrosarcoma	sarcoma
+C129873	Floor of mouth basaloid squamous cell carcinoma	oral
+C4041	Floor of mouth squamous cell carcinoma	oral
+C3209	Follicular lymphoma	lymphoma
+Orphanet_545	Follicular lymphoma	lymphoma
+C9166	Gallbladder adenocarcinoma	gallbladder
+C7356	Gallbladder adenosquamous carcinoma	gallbladder
+C3844	Gallbladder carcinoma	gallbladder
+C3788	Ganglioglioma	glioma
+Orphanet_251949	Ganglioglioma	glioma
+C3790	Ganglioneuroblastoma	neuroblastoma
+Orphanet_251877	Ganglioneuroblastoma	neuroblastoma
+C6728	Gardner syndrome	gardner
+Orphanet_79665	Gardner syndrome	gardner
+C4004	Gastric adenocarcinoma	gastric
+C5474	Gastric adenosquamous carcinoma	gastric
+C4911	Gastric carcinoma	gastric
+C95749	Gastric choriocarcinoma	gastric
+C8398	Gastric fundus carcinoma	gastric
+C95747	Gastric hepatoid adenocarcinoma	gastric
+C27200	Gastric leiomyosarcoma	gastric
+C6764	Gastric small cell carcinoma	gastric
+C5473	Gastric tubular adenocarcinoma	gastric
+C9296	Gastroesophageal junction adenocarcinoma	gastroesophageal
+C126323	Gastroesophageal junction large cell neuroendocrine carcinoma	gastroesophageal
+C3868	Gastrointestinal stromal tumor	stromal
+Orphanet_44890	Gastrointestinal stromal tumor	stromal
+C4646	Gestational choriocarcinoma	choriocarcinoma
+Orphanet_99926	Gestational choriocarcinoma	choriocarcinoma
+C4325	Giant cell glioblastoma	glioblastoma
+Orphanet_251579	Giant cell glioblastoma	glioblastoma
+Orphanet_363976	Giant cell tumor of bone	bone
+C121932	Giant cell tumor of bone	bone
+C129289	Gingival spindle cell carcinoma	gingival
+C129857	Gingival squamous cell carcinoma	gingival
+Orphanet_213833	Glassy cell carcinoma of the cervix uteri	cervix
+C3058	Glioblastoma	glioblastoma
+Orphanet_360	Glioblastoma	glioblastoma
+C92550	Glioneuronal tumor with neuropil-like islands	glioneuronal
+C3796	Gliosarcoma	gliosarcoma
+Orphanet_251576	Gliosarcoma	gliosarcoma
+C35815	Granulocytic sarcoma	sarcoma
+C3064	Granuloma	granuloma
+C7402	Hairy cell leukemia	leukemia
+C7401	Hairy cell leukemia variant	leukemia
+Orphanet_300878	Hairy cell leukemia variant	leukemia
+C6214	Hard palate mucoepidermoid carcinoma	hard palate
+C37290	Head and neck basaloid carcinoma	head and neck
+C34447	Head and neck squamous cell carcinoma	head and neck
+C3085	Hemangioma	hemangioma
+C3087	Hemangiopericytoma	hemangiopericytoma
+C3098	Hepatitis C infection	hepatitis c
+C3728	Hepatoblastoma	hepatoblastoma
+Orphanet_449	Hepatoblastoma	hepatoblastoma
+C3099	Hepatocellular carcinoma	hepatocellular
+Orphanet_88673	Hepatocellular carcinoma	hepatocellular
+C8459	Hepatosplenic T-cell lymphoma	lymphoma
+Orphanet_86882	Hepatosplenic T-cell lymphoma	lymphoma
+Orphanet_145	Hereditary breast and ovarian cancer syndrome	ovarian
+C51302	Hereditary leiomyomatosis and renal cell cancer	renal
+Orphanet_523	Hereditary leiomyomatosis and renal cell cancer	renal
+C43298	Hereditary pancreatic carcinoma	pancreatic
+C97074	Hereditary spherocytosis	spherocytosis
+C46099	Hereditary thyroid gland medullary carcinoma	thyroid
+C3702	Hibernoma	hibernoma
+C125904	High grade B-cell lymphoma with MYC and BCL2 or BCL6 rearrangements	lymphoma
+Orphanet_480541	High grade B-cell lymphoma with MYC and/ or BCL2 and/or BCL6 rearrangement	lymphoma
+C105555	High grade ovarian serous adenocarcinoma	ovarian
+Orphanet_213777	High-grade neuroendocrine carcinoma of the cervix uteri	cervix
+C36077	Hilar cholangiocarcinoma	cholangiocarcinoma
+C27349	Histiocytic sarcoma	sarcoma
+Orphanet_86896	Histiocytic sarcoma	sarcoma
+C35765	Histiocytoma	histiocytoma
+Orphanet_443291	HIV-associated cancer	hiv
+C9357	Hodgkin lymphoma	lymphoma
+Orphanet_98293	Hodgkin lymphoma	lymphoma
+C27676	Human papillomavirus-related cervical squamous cell carcinoma	cervical
+C27677	Human papillomavirus-related endocervical adenocarcinoma	cervical
+C3110	Hydatidiform mole	hydatidiform
+C4043	Hypopharyngeal squamous cell carcinoma	pharyngeal
+C8111	Immature ovarian teratoma	ovarian
+C122617	Infant acute lymphoblastic leukemia with MLL rearrangement	leukemia
+C6645	Infantile hemangioma	hemangioma
+C4001	Inflammatory breast carcinoma	breast
+Orphanet_97279	Insulinoma	insulinoma
+C116316	Intestinal type sinonasal adenocarcinoma	sinonasal
+Orphanet_424058	Intraductal papillary mucinous carcinoma of pancreas	pancreatic
+C35417	Intrahepatic cholangiocarcinoma	cholangiocarcinoma
+C4194	"Invasive ductal carcinoma, not otherwise specified"	breast
+C7950	Invasive lobular breast carcinoma	breast
+C36084	Invasive micropapillary breast carcinoma	breast
+C4162	Juxtaglomerular cell tumor	juxtaglomerular
+Orphanet_33276	Kaposi sarcoma	kaposi
+C3146	Keratoacanthoma	keratoacanthoma
+C40407	Kidney Wilms tumor	kidney wilms
+Orphanet_99978	Klatskin tumor	klatskin
+C34752	Klinefelter syndrome	klinefelter
+C3153	Krukenberg tumor	krukenberg
+C4540	Lacrimal gland adenoid cystic carcinoma	lacrimal
+Orphanet_389	Langerhans cell histiocytosis	langerhans
+C4450	Large cell lung carcinoma	lung
+C5672	Large cell lung neuroendocrine carcinoma	lung
+C4044	Laryngeal squamous cell carcinoma	laryngeal
+C3157	Leiomyoma	leiomyoma
+C3158	Leiomyosarcoma	leiomyosarcoma
+Orphanet_64720	Leiomyosarcoma	leiomyosarcoma
+Orphanet_213625	Leiomyosarcoma of the corpus uteri	leiomyosarcoma
+C3476	Li-Fraumeni syndrome	li-fraumeni
+Orphanet_524	Li-Fraumeni syndrome	li-fraumeni
+C3194	Liposarcoma	liposarcoma
+Orphanet_69078	Liposarcoma	liposarcoma
+C118630	Liver adenosquamous carcinoma	liver
+C4438	Liver angiosarcoma	liver
+C105556	Low grade ovarian serous adenocarcinoma	ovarian
+C8171	Lower gingival squamous cell carcinoma	gingival
+C3512	Lung adenocarcinoma	lung
+C4038	Lung carcinoid tumor	lung
+C4878	Lung carcinoma	lung
+C45543	Lung carcinosarcoma	lung
+C45516	Lung clear cell adenocarcinoma	lung
+C4452	Lung giant cell carcinoma	lung
+C45544	Lung mucoepidermoid carcinoma	lung
+C45542	Lung pleomorphic carcinoma	lung
+C45540	Lung sarcomatoid carcinoma	lung
+C97087	Lymphangiectasia	lymphangiectasia
+C3205	Lymphangiosarcoma	lymphangiosarcoma
+C9360	Lymphoblastic lymphoma	lymphoma
+C7205	Lymphoepithelioid variant peripheral T-cell lymphoma	lymphoma
+C27779	Lymphohistiocytoid mesothelioma	mesothelioma
+C7539	Lymphoid leukemia	leukemia
+C3208	Lymphoma	lymphoma
+C8494	Lynch syndrome	lynch
+Orphanet_144	Lynch syndrome	lynch
+Orphanet_99915	Maligant granulosa cell tumor of the ovarian	ovarian
+C40395	Malignant breast myoepithelioma	breast
+C4504	Malignant breast phyllodes tumor	breast
+Orphanet_99912	Malignant dysgerminomatous germ cell tumor of the ovarian	ovarian
+Orphanet_276145	Malignant epithelial tumor of salivary glands	salivary
+C4304	Malignant giant cell tumor of bone	bone
+Orphanet_213512	Malignant mixed Mullerian tumor of the ovarian	ovarian
+C8025	Malignant mixed tumor of the salivary gland	salivary
+C27810	"Malignant non-Hodgkin lymphoma, cleaved cell"	lymphoma
+C4270	Malignant ovarian Brenner tumor	ovarian
+C39995	Malignant ovarian teratoma	ovarian
+C6929	Malignant ovarian thecoma	ovarian
+C3798	Malignant peripheral nerve sheath tumor	nerve sheath
+Orphanet_3148	Malignant peripheral nerve sheath tumor	nerve sheath
+Orphanet_168811	Malignant peritoneal mesothelioma	mesothelioma
+C4275	Malignant phyllodes tumor	phyllodes
+C3539	Malignant splenic neoplasm	splendic
+C6535	Malignant tenosynovial giant cell tumor	giant cell
+Orphanet_398987	Malignant teratoma of ovarian	ovarian
+Orphanet_180242	Malignant tumor of fallopian tubes	fallopian
+C4337	Mantle cell lymphoma	lymphoma
+Orphanet_52416	Mantle cell lymphoma	lymphoma
+C3169	Mast cell leukemia	leukemia
+Orphanet_98851	Mast cell leukemia	leukemia
+C6064	Maxillary sinus squamous cell carcinoma	sinus
+C9280	Mediastinal (thymic) large B-cell lymphoma	lymphoma
+C6619	Mediastinal leiomyosarcoma	leiomyosarcoma
+C9119	Medullary breast carcinoma	breast
+Orphanet_1332	Medullary thyroid carcinoma	thyroid
+C3222	Medulloblastoma	medulloblastoma
+Orphanet_616	Medulloblastoma	medulloblastoma
+C3224	Melanoma	melanoma
+C6891	Meningeal melanomatosis	meningeal
+C4073	Meningeal sarcoma	meningeal
+C3230	Meningioma	meningioma
+Orphanet_2495	Meningioma	meningioma
+C9231	Merkel cell carcinoma	merkel
+C3233	Mesenchymoma	mesenchymoma
+C5164	Metaplastic breast carcinoma	breast
+Orphanet_213531	Metaplastic carcinoma of the breast	breast
+C4124	Metastatic adenocarcinoma	metastatic
+C76328	Metastatic lobular breast carcinoma	breast
+C128847	Micropapillary lung adenocarcinoma	lung
+C6422	Midgut neuroendocrine tumor G1	midgut
+C2923	Minimally invasive lung adenocarcinoma	lung
+C3756	Mixed embryonal carcinoma and teratoma	embryonal
+Orphanet_180234	Mixed germ cell tumor	germ cell
+Orphanet_530995	Mixed phenotype acute leukemia	leukemia
+C82179	Mixed phenotype acute leukemia	leukemia
+C6534	Monophasic synovial sarcoma	synovial
+Orphanet_398961	Mucinous adenocarcinoma of ovarian	ovarian
+C5248	Mucinous gastric adenocarcinoma	gastric
+C114828	Mucosal melanoma	melanoma
+C6470	Multifocal osteosarcoma	osteosarcoma
+C4524	Multilocular cystic renal cell carcinoma	renal
+Orphanet_319287	Multilocular cystic renal neoplasm of low malignant potential	renal
+C3225	Multiple endocrine neoplasia type 1	neoplasia
+Orphanet_652	Multiple endocrine neoplasia type 1	neoplasia
+C123329	Multiple endocrine neoplasia type 2	neoplasia
+Orphanet_653	Multiple endocrine neoplasia type 2	neoplasia
+Orphanet_29073	Multiple myeloma	myeloma
+C60989	Myasthenia gravis	myasthenia gravis
+Orphanet_589	Myasthenia gravis	myasthenia gravis
+C9265	Mycosis fungoides and Sezary syndrome	fungoides
+C3247	Myelodysplastic syndrome	myelodysplastic
+C43223	Myeloid leukemia associated with Down syndrome	leukemia
+C6496	Myxofibrosarcoma	myxofibrosarcoma
+Orphanet_79105	Myxofibrosarcoma	myxofibrosarcoma
+C4303	Myxoid chondrosarcoma	chondrosarcoma
+C27781	Myxoid liposarcoma	liposarcoma
+Orphanet_99967	Myxoid/round cell liposarcoma	liposarcoma
+C49025	Myxoinflammatory fibroblastic sarcoma	myxoinflammatory
+C116318	Nasal cavity and paranasal sinus small cell neuroendocrine carcinoma	nasal
+C68611	Nasal cavity and paranasal sinus squamous cell carcinoma	nasal
+C8192	Nasal cavity squamous cell carcinoma	nasal
+C4684	Nasal type extranodal NK/T-cell lymphoma	nasal
+C3871	Nasopharyngeal carcinoma	nasopharyngeal
+Orphanet_150	Nasopharyngeal carcinoma	nasopharyngeal
+C82217	Natural killer cell lymphoblastic leukemia/lymphoma	natual killer
+C3262	Neoplasm	neoplasm
+Orphanet_654	Nephroblastoma	nephroblastoma
+C3270	Neuroblastoma	neuroblastoma
+Orphanet_635	Neuroblastoma	neuroblastoma
+Orphanet_506136	Neuroendocrine neoplasm of esophagus	esophagus
+Orphanet_100082	Neuroendocrine tumor of anal canal	anal
+Orphanet_97253	Neuroendocrine tumor of pancreas	pancreatic
+C3272	Neurofibroma	neurofibroma
+Orphanet_252183	Neurofibroma	neurofibroma
+C3273	Neurofibromatosis type 1	neurofibromatosis
+Orphanet_636	Neurofibromatosis type 1	neurofibromatosis
+Orphanet_289362	Non-central nervous system-localized embryonal carcinoma	embryonal
+Orphanet_91349	Non-functioning pituitary adenoma	pituitary
+C121721	Non-functioning pituitary gland macroadenoma	pituitary
+C3211	Non-Hodgkin lymphoma	non-hodgkin
+Orphanet_209989	Non-papillary transitional cell carcinoma of the bladder	bladder
+C2926	Non-small cell lung carcinoma	non-small cell lung
+C45716	NUT carcinoma	nut
+Orphanet_443167	NUT midline carcinoma	nut
+C3789	Olfactory neuroblastoma	olfactory
+C4050	Oligoastrocytoma	oligoastrocytoma
+Orphanet_251656	Oligoastrocytoma	oligoastrocytoma
+C3288	Oligodendroglioma	oligodendroglioma
+Orphanet_251627	Oligodendroglioma	oligodendroglioma
+C27769	Opisthorchis viverrini-related cholangiocarcinoma	cholangiocarcinoma
+C36262	Oral cavity leukoplakia	oral
+C5915	Oral cavity mucosal melanoma	oral
+C6242	Oral cavity pleomorphic adenoma	oral
+C4833	Oral cavity squamous cell carcinoma	oral
+C129863	Oral dysplasia	oral
+C3187	Oral leukoplakia	oral
+C8181	Oropharyngeal squamous cell carcinoma	oropharyngeal
+C3294	Osteoblastoma	osteoblastoma
+Orphanet_58040	Osteoblastoma	osteoblastoma
+C3297	Osteoid osteoma	osteoid
+C9145	Osteosarcoma	osteosarcoma
+Orphanet_668	Osteosarcoma	osteosarcoma
+C7700	Ovarian adenocarcinoma	ovarian
+C4908	Ovarian carcinoma	ovarian
+C9192	Ovarian carcinosarcoma	ovarian
+C4515	Ovarian choriocarcinoma	ovarian
+C40078	Ovarian clear cell adenocarcinoma	ovarian
+C5228	Ovarian cystadenocarcinoma	ovarian
+C8106	Ovarian dysgerminoma	ovarian
+C7979	Ovarian endometrioid adenocarcinoma	ovarian
+C5233	Ovarian fibrosarcoma	ovarian
+C6261	Ovarian granulosa cell tumor	ovarian
+C5234	Ovarian leiomyosarcoma	ovarian
+C8814	Ovarian mixed germ cell tumor	ovarian
+C5243	Ovarian mucinous adenocarcinoma	ovarian
+C4026	Ovarian mucinous cystadenocarcinoma	ovarian
+C7278	Ovarian papillary cystadenoma	ovarian
+C7550	Ovarian serous adenocarcinoma	ovarian
+C7978	Ovarian serous cystadenocarcinoma	ovarian
+C6256	Ovarian serous surface papillary adenocarcinoma	ovarian
+C27390	Ovarian small cell carcinoma	ovarian
+C40439	"Ovarian small cell carcinoma, hypercalcemic type"	ovarian
+C40093	Ovarian squamous cell carcinoma	ovarian
+C8110	Ovarian teratoma	ovarian
+C8107	Ovarian yolk sac tumor	ovarian
+C7073	Paget disease	paget
+C7977	Pancreatic acinar cell carcinoma	pancreatic
+C8294	Pancreatic adenocarcinoma	pancreatic
+C5721	Pancreatic adenosquamous carcinoma	pancreatic
+C3850	Pancreatic carcinoma	pancreatic
+C45843	Pancreatic carcinoma with mixed differentiation	pancreatic
+C9120	Pancreatic ductal adenocarcinoma	pancreatic
+C95598	Pancreatic insulinoma	pancreatic
+C38342	Pancreatic intraductal papillary-mucinous neoplasm	pancreatic
+C95506	Pancreatic intraductal tubulopapillary neoplasm	pancreatic
+C41247	Pancreatic mucinous-cystic neoplasm	pancreatic
+C27720	Pancreatic neuroendocrine tumor	pancreatic
+C45835	Pancreatic neuroendocrine tumor G2	pancreatic
+C95583	Pancreatic small cell neuroendocrine carcinoma	pancreatic
+C95595	Pancreatic somatostatinoma	pancreatic
+C4265	Pancreatoblastoma	pancreatoblastoma
+Orphanet_677	Pancreatoblastoma	pancreatoblastoma
+C5650	Papillary lung adenocarcinoma	lung
+C6975	Papillary renal cell carcinoma	renal
+Orphanet_319298	Papillary renal cell carcinoma	renal
+Orphanet_2807	Papilloma of choroid plexus	choroid plexus
+Orphanet_143	Parathyroid carcinoma	parathyroid
+C3916	Parathyroid gland adenoma	parathyroid
+C4906	Parathyroid gland carcinoma	parathyroid
+C5941	Parotid gland adenocarcinoma	parotid gland
+C5938	Parotid gland mucoepidermoid carcinoma	parotid gland
+C4650	Parotid gland pleomorphic adenoma	parotid gland
+C5942	Parotid gland squamous cell carcinoma	parotid gland
+Orphanet_33402	Pediatric hepatocellular carcinoma	hepatocellular
+C27322	Periampullary adenocarcinoma	periampullary
+Orphanet_370348	Peripheral primitive neuroectodermal tumor	neuroectodermal
+C9341	Peripheral primitive neuroectodermal tumor	neuroectodermal
+C8776	Peripheral primitive neuroectodermal tumor of bone	neuroectodermal
+C9350	Peritoneal malignant mesothelioma	mesothelioma
+C102872	Pharyngeal squamous cell carcinoma	pharyngeal
+Orphanet_180261	Phyllodes tumor of the breast	breast
+C4047	Pilocytic astrocytoma	astrocytoma
+Orphanet_251612	Pilocytic astrocytoma	astrocytoma
+C8712	Pineal region germinoma	pineal
+Orphanet_251909	Pineoblastoma	pineoblastoma
+Orphanet_99408	Pituitary adenoma	pituitary
+C3329	Pituitary gland adenoma	pituitary
+C3242	Plasma cell myeloma	myeloma
+C7224	Plasmablastic lymphoma	lymphoma
+Orphanet_289666	Plasmablastic lymphoma	lymphoma
+C5161	Pleomorphic breast carcinoma	breast
+C3705	Pleomorphic liposarcoma	liposarcoma
+Orphanet_99969	Pleomorphic liposarcoma	liposarcoma
+C4258	Pleomorphic rhabdomyosarcoma	rhabdomyosarcoma
+Orphanet_293199	Pleomorphic rhabdomyosarcoma	rhabdomyosarcoma
+Orphanet_454821	Pleomorphic salivary gland adenoma	salivary
+C45665	Pleural biphasic mesothelioma	mesothelioma
+C45664	Pleural desmoplastic mesothelioma	mesothelioma
+C45662	Pleural epithelioid mesothelioma	mesothelioma
+C7376	Pleural malignant mesothelioma	mesothelioma
+Orphanet_50251	Pleural mesothelioma	mesothelioma
+C45663	Pleural sarcomatoid mesothelioma	mesothelioma
+C6040	Poorly differentiated thyroid gland carcinoma	thyroid
+Orphanet_99860	Precursor B-cell acute lymphoblastic leukemia	leukemia
+Orphanet_99861	Precursor T-cell acute lymphoblastic leukemia	leukemia
+C7155	Primary central chondrosarcoma	chondrosarcoma
+C6915	Primary effusion lymphoma	lymphoma
+Orphanet_48686	Primary effusion lymphoma	lymphoma
+Orphanet_98838	Primary mediastinal large B-cell lymphoma	lymphoma
+Orphanet_168829	Primary peritoneal carcinoma	peritoneal
+C40022	Primary peritoneal carcinoma	peritoneal
+C7695	Primary peritoneal serous papillary adenocarcinoma	peritoneal
+C3716	Primitive neuroectodermal tumor	neuroectodermal
+C39903	Prostate adenocarcinoma with focal neuroendocrine differentiation	prostate
+C4863	Prostate carcinoma	prostate
+C6766	Prostate small cell carcinoma	prostate
+C5536	Prostate squamous cell carcinoma	prostate
+C3732	Pulmonary blastoma	pulmonary
+Orphanet_64741	Pulmonary blastoma	pulmonary
+C45691	Pyothorax-associated lymphoma	pyothorax
+C4943	Pyriform fossa squamous cell carcinoma	pyriform
+C9383	Rectal adenocarcinoma	rectal
+C7973	Rectal mucinous adenocarcinoma	rectal
+C60639	Rectal small cell neuroendocrine carcinoma	rectal
+C43584	Rectosigmoid adenocarcinoma	rectosigmoid
+C7421	Rectosigmoid carcinoma	rectosigmoid
+C7899	Recurrent bladder carcinoma	bladder
+C8795	Recurrent undifferentiated pleomorphic sarcoma	sarcoma
+C3888	Renal angiomyolipoma	renal
+C9385	Renal cell carcinoma	renal
+C27891	Renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions	renal
+C7716	Renal pelvis and ureter urothelial carcinoma	renal
+C6142	Renal pelvis carcinoma	renal
+C7732	Renal pelvis squamous cell carcinoma	renal
+C7355	Renal pelvis urothelial carcinoma	renal
+C116317	Renal small cell carcinoma	renal
+C7541	Retinoblastoma	retinoblastoma
+Orphanet_790	Retinoblastoma	retinoblastoma
+C8172	Retromolar trigone squamous cell carcinoma	retromolar
+C27904	Retroperitoneal leiomyosarcoma	leiomyosarcoma
+Orphanet_69077	Rhabdoid tumor	rhabdoid
+C8715	Rhabdoid tumor of the kidney	rhabdoid
+C3359	Rhabdomyosarcoma	rhabdomyosarcoma
+Orphanet_780	Rhabdomyosarcoma	rhabdomyosarcoma
+C129927	Sacral chordoma	chordoma
+C8026	Salivary gland adenoid cystic carcinoma	salivary
+C35701	Salivary gland epithelial myoepithelial carcinoma	salivary
+C5908	Salivary gland mucoepidermoid carcinoma	salivary
+C40409	Salivary gland pleomorphic adenoma	salivary
+C7991	Salivary gland squamous cell carcinoma	salivary
+C9118	Sarcoma	sarcoma
+Orphanet_213620	Sarcoma of the corpus uteri	sarcoma
+C43627	Sarcomatoid hepatocellular carcinoma	hepatocellular
+C27893	Sarcomatoid renal cell carcinoma	renal
+C3269	Schwannoma	schwannoma
+C7362	Scirrhous breast carcinoma	scirrhous
+C25765	Secondary acute myeloid leukemia	leukemia
+C27482	Secondary chondrosarcoma	chondrosarcoma
+Orphanet_506090	Serotonin-producing neuroendocrine tumor of pancreas	pancreatic
+C4446	Serotonin-producing pancreatic neuroendocrine tumor	pancreatic
+C4182	Serous surface papillary carcinoma	papillary
+C5250	Signet ring cell gastric adenocarcinoma	gastric
+C54294	Sinonasal undifferentiated carcinoma	sinonasal
+C4489	Skin angiosarcoma	skin
+C2921	Skin basal cell carcinoma	skin
+C5585	Skin sarcoma	skin
+C4819	Skin squamous cell carcinoma	skin
+Orphanet_370396	Small cell carcinoma of the ovarian	ovarian
+Orphanet_70573	Small cell lung cancer	lung
+C4917	Small cell lung carcinoma	lung
+C4023	Small cell osteosarcoma	osteosarcoma
+C7888	Small intestinal adenocarcinoma	intestinal
+C7724	Small intestinal carcinoma	intestinal
+C7540	Small lymphocytic lymphoma	lymphoma
+C6605	Soft tissue fibrosarcoma	soft tissue
+C9306	Soft tissue sarcoma	soft tissue
+Orphanet_3394	Soft tissue sarcoma	soft tissue
+Orphanet_2126	Solitary fibrous tumour/hemangiopericytoma	hemangiopericytoma
+Orphanet_97283	Somatostatinoma	somatostatinoma
+C5156	Spinal chordoma	spinal
+C5406	"Spinal cord embryonal tumor, not otherwise specified"	spinal
+C27005	Spindle cell sarcoma	spindle
+C4277	Spindle cell synovial sarcoma	spindle
+C4663	Splenic marginal zone lymphoma	lymphoma
+Orphanet_86854	Splenic marginal zone lymphoma	lymphoma
+Orphanet_276624	Sporadic pheochromocytoma	pheochromocytoma
+C42596	Sporadic retinoblastoma	retinoblastoma
+C40359	"Squamous cell breast carcinoma, acantholytic variant"	breast
+C2929	Squamous cell carcinoma	squamous
+Orphanet_500481	Squamous cell carcinoma of salivary glands	salivary
+Orphanet_213767	Squamous cell carcinoma of the cervix uteri	cervix
+Orphanet_99977	Squamous cell carcinoma of the esophagus	esophagus
+Orphanet_494547	Squamous cell carcinoma of the hypopharynx	hypopharynx
+Orphanet_494550	Squamous cell carcinoma of the larynx	larynx
+Orphanet_500464	Squamous cell carcinoma of the nasal cavity and paranasal sinuses	sanal
+Orphanet_502363	Squamous cell carcinoma of the oral cavity	oral
+Orphanet_457252	Squamous cell carcinoma of the oral tongue	oral
+Orphanet_500478	Squamous cell carcinoma of the oropharynx	oropharynx
+C7729	Squamous cell carcinoma of the penis	penis
+Orphanet_398058	Squamous cell carcinoma of the penis	penis
+C3493	Squamous cell lung carcinoma	lung
+C3712	Squamous papilloma	papilloma
+C5977	Submandibular gland carcinoma ex pleomorphic adenoma	submandibular gland
+C5943	Submandibular gland squamous cell carcinoma	submandibular gland
+C3400	Synovial sarcoma	synovial
+Orphanet_3273	Synovial sarcoma	synovial
+C3201	Systemic lupus erythematosus	lupus
+Orphanet_536	Systemic lupus erythematosus	lupus
+C3183	T acute lymphoblastic leukemia	leukemia
+C70649	T-cell chronic lymphocytic leukemia	leukemia
+C4664	T-cell large granular lymphocyte leukemia	leukemia
+Orphanet_86872	T-cell large granular lymphocyte leukemia	leukemia
+C3466	T-cell non-Hodgkin lymphoma	leukemia
+Orphanet_171918	T-cell non-Hodgkin lymphoma	leukemia
+C4752	T-cell prolymphocytic leukemia	leukemia
+Orphanet_86871	T-cell prolymphocytic leukemia	leukemia
+C3403	Teratoma	teratoma
+C7733	Testicular choriocarcinoma	testicular
+C6341	Testicular embryonal carcinoma	testicular
+C3404	Testicular neoplasm	testicular
+C7328	Testicular seminoma	testicular
+Orphanet_842	Testicular seminomatous germ cell tumor	testicular
+C3877	Testicular teratoma	testicular
+Orphanet_363483	Testicular teratoma	testicular
+C8000	Testicular yolk sac tumor	testicular
+Orphanet_86846	Therapy related acute myeloid leukemia and myelodysplastic syndrome	leukemia
+C8252	Therapy-related acute myeloid leukemia	leukemia
+C7569	Thymic carcinoma	thymic
+Orphanet_99868	Thymic carcinoma	thymic
+C6451	Thymic lymphoma	thymic
+C35718	Thymic undifferentiated carcinoma	thymic
+C3411	Thymoma	thymoma
+Orphanet_99867	Thymoma	thymoma
+C3412	Thymus neoplasm	thymus
+Orphanet_100088	Thyroid carcinoma	thyroid
+C4815	Thyroid gland carcinoma	thyroid
+C8054	Thyroid gland follicular carcinoma	thyroid
+C4946	Thyroid gland Hurthle cell carcinoma	thyroid
+C4161	Thyroid gland macrofollicular adenoma	thyroid
+C3879	Thyroid gland medullary carcinoma	thyroid
+C4035	Thyroid gland papillary carcinoma	thyroid
+C6041	Thyroid gland sarcoma	thyroid
+C46008	Thyroid gland squamous cell carcinoma	thyroid
+C3878	Thyroid gland undifferentiated (anaplastic) carcinoma	thyroid
+C4648	Tongue squamous cell carcinoma	tongue
+C3417	Tonsillar neoplasm	tonsillar
+C8183	Tonsillar squamous cell carcinoma	tonsillar
+C71732	Triple-negative breast carcinoma	breast
+Orphanet_423786	Undifferentiated carcinoma of stomach	stomach
+C9167	Undifferentiated gallbladder carcinoma	gallbladder
+C5476	Undifferentiated gastric carcinoma	gastric
+C96792	Undifferentiated liver carcinoma	liver
+C4509	Undifferentiated ovarian carcinoma	ovarian
+C5722	Undifferentiated pancreatic carcinoma	pancreatic
+C4247	Undifferentiated pleomorphic sarcoma	sarcoma
+Orphanet_2023	Undifferentiated pleomorphic sarcoma	sarcoma
+C8173	Upper gingival squamous cell carcinoma	gingival
+C8993	Ureter carcinoma	ureter
+C6166	Urethral urothelial carcinoma	urethral
+C42700	Uterine carcinosarcoma	uterine
+C6340	Uterine corpus leiomyosarcoma	uterine
+C6339	Uterine corpus sarcoma	uterine
+C7712	Uveal melanoma	uveal
+Orphanet_39044	Uveal melanoma	uveal
+C27394	Vaginal melanoma	vaginal
+C7736	"Vaginal squamous cell carcinoma, not otherwise specified"	vaginal
+C26749	VIP-producing neuroendocrine tumor	vip
+Orphanet_97282	VIPoma	vip
+Orphanet_892	Von Hippel-Lindau disease	von hippel-lindau
+C3105	Von Hippel-Lindau syndrome	von hippel-lindau
+C4866	Vulvar carcinoma	vulvar
+C40318	Vulvar leiomyosarcoma	vulvar
+C27723	Vulvar lichen sclerosus	vulvar
+C40329	Vulvar melanoma	vulvar
+C4052	Vulvar squamous cell carcinoma	vulvar
+Orphanet_494448	Vulvar squamous cell carcinoma	vulvar
+Orphanet_33226	Waldenstrom macroglobulinemia	waldenstrom
+C4250	Well differentiated liposarcoma	liposarcoma
+Orphanet_99971	Well-differentiated liposarcoma	liposarcoma
